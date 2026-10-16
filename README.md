@@ -68,3 +68,11 @@
 <hr />
 <p><h5><strong>MIT License: Free to use, share, or modify with credit.</strong></h5></p>
 <p><h5>NOT FOR COMMERCIAL USE, CONTACT AUTHOR.</h5></p>
+<hr />
+<p><strong>Preview selection</strong></p><img width="1920" height="1032" alt="Lorebook1" src="https://github.com/user-attachments/assets/f6bda691-b520-44bb-b3b7-8e0d85b9bdd8" />
+<p><strong>Scan all entries</strong></p><img width="1920" height="1032" alt="Lorebook2" src="https://github.com/user-attachments/assets/c16a952d-123d-4863-a28a-0ec62a6a261f" />
+<p><strong>Runtime: Read entries</strong></p><img width="1920" height="1032" alt="Lorebook3" src="https://github.com/user-attachments/assets/15b016de-1298-4e86-84c1-b95eb397e017" />
+<p><strong>Runtime: Compile entries</strong></p><img width="1920" height="1032" alt="Lorebook4" src="https://github.com/user-attachments/assets/71be2b1d-1372-470f-91dd-f0672efca182" />
+<p><strong>Export options (pre-"Import JSON")</strong></p><img width="1920" height="1032" alt="Lorebook1" src="https://github.com/user-attachments/assets/b6c886eb-f7d1-4125-8dda-23902d16ac85" />
+
+
