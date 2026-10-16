@@ -64,7 +64,7 @@
 <p><em>Q. I WANT TO TAKE IT OVER AND MAKE IT DO XYZ THING NOT SPECIFIED ABOVE</em></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A. If you want to collab, send me a message. Or just follow the licensing, I don't care.</p>
 <p><em>Q. [INSERT OTHER QUESTION]</em></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A. Idk, man. Message me, I&rsquo;ll figure it out. I do &ldquo;IT stuff&rdquo; for a living; I&rsquo;m used to it.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A. Idk, man. Message me, I&rsquo;ll figure it out.</p>
 <hr />
 <p><h5><strong>MIT License: Free to use, share, or modify with credit.</strong></h5></p>
 <p><h5>NOT FOR COMMERCIAL USE, CONTACT AUTHOR.</h5></p>
