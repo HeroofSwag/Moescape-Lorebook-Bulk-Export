@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Moescape Lorebook Bulk Export
-// @namespace    local.moescape.lorebook.export
+// @namespace    moescape-lorebook-bulk-export
 // @author       etriptow
 // @version      1.3.0
 // @description  Explicitly load every lorebook entry; export entries and lorebook metadata in five formats.

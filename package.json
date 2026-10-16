@@ -1,0 +1,26 @@
+{
+  "name": "moescape-lorebook-bulk-export",
+  "version": "1.3.0",
+  "description": "Export browser extension for Moescape.ai Lorebooks.",
+  "keywords": [
+    "moescape",
+    "lorebook",
+    "export",
+    "import"
+  ],
+  "homepage": "https://github.com/HeroofSwag/Moescape-Lorebook-Bulk-Export#readme",
+  "bugs": {
+    "url": "https://github.com/HeroofSwag/Moescape-Lorebook-Bulk-Export/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeroofSwag/Moescape-Lorebook-Bulk-Export.git"
+  },
+  "license": "MIT",
+  "author": "Emily Triptow",
+  "type": "commonjs",
+  "main": "moescapeExport.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
