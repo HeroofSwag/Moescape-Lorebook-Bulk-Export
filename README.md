@@ -1,6 +1,6 @@
 <p><strong>Moescape Lorebook Backup + JSON Export</strong></p>
 <hr />
-<p><em>SEE TAVERN CHAT DOWNLOADER BY Dagyr HERE</em>: <a href="https://greasyfork.org/en/scripts/566378-tavern-chat-downloader">https://greasyfork.org/en/scripts/566378-tavern-chat-downloader</a></p>
+<p><em>SEE TAVERN CHAT DOWNLOADER BY Holly & Dagyr HERE</em>: <a href="https://greasyfork.org/en/scripts/566378-tavern-chat-downloader">https://greasyfork.org/en/scripts/566378-tavern-chat-downloader</a></p>
 <hr />
 <p>Download Lorebooks as CSV, JSON, JSONL (SillyTavern/OpenAI compatible), TXT, or XML</p>
 <p><strong>"Import JSON"</strong> download option formats entries for reimport in Character.ai (confirmed to work with Moescape.ai)</p>
