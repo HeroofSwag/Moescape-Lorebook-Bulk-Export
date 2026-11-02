@@ -8,6 +8,7 @@
 <hr />
 <p><strong>***DOES NOT AUTODOWNLOAD COVER IMAGE***</strong></p>
 <p>Export provides image URL to retrieve manually if necessary.</p>
+<p>MANUAL Google Sheets Import Builder: <strong><u><a href="https://docs.google.com/spreadsheets/d/1ksOO_geryC6G9ZPHT6SwTSdELSP2haQuIxrK03B99FQ/edit?usp=sharing">LorebookJSON_Template</a></u></strong></p>
 <hr />
 <p>-Loads all entries and Lorebook information</p>
 <p>-Scans entries and compiles the data</p>
@@ -19,7 +20,7 @@
 <p>Install script using your preferred userscript manager (Tampermonkey, Greasemonkey, etc.)</p>
 </li>
 <li>
-<p>Refresh any open tabs with a <u><a href="https://moescape.ai/tavern/lorebooks/*">https://moescape.ai/tavern/lorebooks/*</a></u> URL.</p>
+<p>Refresh any open tabs with a <u><a href="https://moescape.ai/tavern/lorebooks">https://moescape.ai/tavern/lorebooks/*</a></u> URL.</p>
 <ol>
 <li>
 <p>Browser console can be minimized or userscript disabled to hide.</p>
